@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/WG1YODq0eI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sys\\source\\repos\\Authy\\Authy\\Authy\\Authy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sys\\.nuget\\packages\\jquery\\1.8.0\\jquery.1.8.0.nupkg.sha512",
+    "C:\\Users\\sys\\.nuget\\packages\\jquery.validation\\1.8.0.1\\jquery.validation.1.8.0.1.nupkg.sha512",
+    "C:\\Users\\sys\\.nuget\\packages\\microsoft.jquery.unobtrusive.validation\\4.0.0\\microsoft.jquery.unobtrusive.validation.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
